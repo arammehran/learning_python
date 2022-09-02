@@ -7,3 +7,6 @@ def factorial(num):
 
 
 factorial(20)
+"""
+You simply need to pass the number which you want to find the factorial of, as an argument while calling the function and that's it!!!
+"""
