@@ -12,3 +12,8 @@ if n > size:
 else: 
     print(word)
     print(word[n:])
+    
+    """
+    Although you did not use the function, your approach is the same as that of the solution used in the link above,
+    i.e. slicing the string using "word[n:]" and it is probably the best way to do it in Python.
+    """
